@@ -50,7 +50,7 @@ print(result)
    pip install numpy
    ```
 
-2. Run the `mean_var_std.py` script with a valid 9-element list.
+2. Run the `main.py`.
 
 ## Error Handling
 If the input list contains fewer or more than 9 elements, the function raises a `ValueError` with the message:
